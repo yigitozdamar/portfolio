@@ -1,7 +1,7 @@
 import "./works.scss";
 
 const works = () => {
-  return <div className="works"></div>;
+  return <div className="works" id="works"></div>;
 };
 
 export default works;
